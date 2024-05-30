@@ -3,6 +3,12 @@
 Welcome to my portfolio! Here you'll find a showcase of my projects and skills in front-end development and AI technologies.
 
 ---
+## Screenshots
+![Screenshot1](assets\image.png)
+![Screenshot2](assets\image2.png)
+
+---
+
 
 
 ## Table of Contents
